@@ -1,32 +1,14 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Xin chào! Tôi là một người làm về dữ liệu, tập trung vào các dự án thu thập, xử lý và phân tích dữ liệu.
+Tôi xây dựng các quy trình từ bước lấy dữ liệu (web/log/API), làm sạch bằng Python/SQL, đến trực quan hóa và báo cáo. Mục tiêu của tôi là tạo ra các workflow đơn giản, dễ mở rộng và áp dụng trong thực tế.
 
+Hiện tại tôi đang thực hành nhiều dự án nhỏ như:
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Thu thập log web và phân tích hành vi truy cập
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Làm sạch dữ liệu CSV lớn và chuẩn hóa dữ liệu
 
-(* = not included)
+Phân tích tình hình kinh doanh, doanh thu, người dùng
 
-AJ
-aj@lkn.io | @ajlkn
+Xây dựng dashboard cơ bản bằng Power BI và Python
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Tôi luôn muốn học thêm về pipeline, ETL, tối ưu SQL, và những kỹ thuật mới trong Data Engineering/Data Analysis.
